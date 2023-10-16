@@ -79,6 +79,7 @@ Step 15: Quickly go to STW (wether through game select, or the playlist in BR) a
 Step 16: If everything is done correctly, you should see that the rewards were successfully swapped which means it worked on your end.
 
 ![I changed a PL 5 mission's rewards to one that belonged in a higher level venture zone](https://github.com/Windermed/STWMissionAlert-SwapTutorial/blob/main/image.png?raw=true)
+*In this image, i changed a PL5 venture mission's rewards to one that belongs in a higher level venture zone*
 Step 17: Enjoy!
 
 **NOTE**: The steps for the backend may or may not be needed. I simply decided to include it here as it allows you to utilize an SSL bypass which will make this process more safer and effective.
