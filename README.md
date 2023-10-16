@@ -17,13 +17,14 @@ anyways enough rambling, here is the method. hope you enjoy!
 
 
 What you will need:
-basic computer knowledge
-Latest fortnite client (obviously)
-Fiddler Classic
-Any server backend capable of XMPP
-latest dump of stw’s mission data (the data containing all of the missions such as positions, rewards, etc)
-an SSL bypass that works on latest
-A DLL Injection program (I used Xenos Injector but any work!)
+
+- basic computer knowledge
+- Latest fortnite client (obviously)
+- Fiddler Classic
+- Any server backend capable of XMPP
+- latest dump of stw’s mission data (the data containing all of the missions such as positions, rewards, etc)
+- an SSL bypass that works on latest
+- A DLL Injection program (I used Xenos Injector but any work!)
 **NOTE: ALL LINKS WILL BE PROVIDED AT THE BOTTOM OF THIS TEXT.** 
 
 
