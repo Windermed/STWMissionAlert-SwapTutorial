@@ -1,14 +1,16 @@
 # STWMissionAlert-SwapTutorial
-my response to people gatekeeping/acting superior just because they recently learned how to use an HTTP decryption program on a video game where you build forts and fight husks lol
+a method that was going around fortnite discord servers that allows you to modify mission alert rewards by swapping them with another alert reward from another mission in the same zone (also this method allows you to queue up on dev missions which aren't accessible via normal means)
 
 
 # HOW TO DO MISSION ALERT SWAPS FOR FORTNITE SAVE THE WORLD (STW) 2023 ( written by @Windermed_ ) 
 
-This entire tutorial was the result of hours of research and trial and error after how annoyed i was at the amount of gatekeeping involved from those who knew about it and because of that, I decided to figure out how to do it on my own and release it to the public out of spite of those who are gatekeeping/selling it and so people don't waste their money on methods that will probably be patched soon.
+This entire tutorial was the result of hours of research and trial and error after how annoyed i was at the amount of gatekeeping that existed around a (now) easy method from those who felt superior just because they recently learned how to use an http decryption tool on a video game where you build and fight players/husks lol
+and because of that, I decided to figure out the method on my own with the goal of releasing it  to the public simply out of spite of those who continue to gatekeep/sell a method that will probably be patched soon anyways lol
 
-credit isn't needed, but would be really appreciated if you decide to share/repost this or make a video tutorial on this! anyways, 
+if you decide to share or make a video tutorial on this all i ask is to be credited but i won't force you to.
+i would still appreciate it though if you could!
 
-here is the method, hope you all enjoy!
+anyways enough rambling, here is the method. hope you enjoy!
 
 **DISCLAIMER: JUST LIKE WITH ANY OTHER FORTNITE EXPLOIT/GLITCH, THIS MAY OR MAY NOT HAVE A BAN RISK. I HIGHLY RECOMMEND TO DO THIS ON AN ALT ACCOUNT IF POSSIBLE. 
  YOU ASSUME ALL RISK AND RESPONSIBILITY BY DOING THIS AND I AM NOT RESPONSIBLE FOR ANY POTENTIAL BANS THAT MAY OR MAY NOT OCCUR USING THIS METHOD.**
