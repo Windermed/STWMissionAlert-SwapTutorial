@@ -110,8 +110,8 @@ https://github.com/DarthTon/Xenos
 https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/blob/main/Fortnite/SaveTheWorld/Missions.md (For STW mission data)
 
 - 
-**If you liked this tutorial and would like to see more, feel free to** [follow me on Twitter:](https://twitter.com/Windermed_)
-https://twitter.com/Windermed_
+**If you liked this tutorial and would like to see more, feel free to** [follow me on Twitter:](https://twitter.com/Windermed_) i post about things related to fortnite modding/leaks (occasionally) and it can range from BR to STW as i'm a fan of both (i lean to STW tho lol)
+
 
 
 Have a hee-great day, ho!
