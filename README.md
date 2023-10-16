@@ -2,7 +2,7 @@
 my response to people gatekeeping/acting superior just because they recently learned how to use an HTTP decryption program on a video game where you build forts and fight husks lol
 
 
-# HOW TO DO MISSION ALERT SWAPS FOR STW 2023 ( written by @Windermed_ ) 
+# HOW TO DO MISSION ALERT SWAPS FOR FORTNITE SAVE THE WORLD (STW) 2023 ( written by @Windermed_ ) 
 
 This entire tutorial was the result of hours of research and trial and error after how annoyed i was at the amount of gatekeeping involved from those who knew about it and because of that, I decided to figure out how to do it on my own and release it to the public out of spite of those who are gatekeeping/selling it and so people don't waste their money on methods that will probably be patched soon.
 
