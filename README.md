@@ -1,6 +1,8 @@
 # STWMissionAlert-SwapTutorial
 a method that was going around fortnite discord servers that allows you to modify mission alert rewards by swapping them with another alert reward from another mission in the same zone (also this method allows you to queue up on dev missions which aren't accessible via normal means)
 
+# APRIL 2025 UPDATE: THIS METHOD IS OUTDATED AND IS NO LONGER WORKING AS *ALLEGEDLY* EPIC SAW THIS AND PATCHED IT THEMSELVES A WHILE AGO.
+# That said, I will still leave this up for educational/learning purposes as even though it may be patched now, it can still be learned from.
 
 # HOW TO DO MISSION ALERT SWAPS FOR FORTNITE SAVE THE WORLD (STW) 2023 ( written by @Windermed_ ) 
 
